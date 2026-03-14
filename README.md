@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="screenshots/01_app_icon_homescreen.jpeg" width="80" style="border-radius:18px"/><br/><br/>
+  <img src="screenshots/SVG (Transparent).svg" width="120"/><br/><br/>
   بیان &nbsp;·&nbsp; Bayan
 </h1>
 
@@ -115,11 +115,6 @@ After 1.5 seconds of no typing, Bayan shows a fluent English suggestion above th
 ## 🤝 Want to Try It?
 
 Bayan is currently in early access. If you want to get your hands on it, discuss a collaboration, or just talk about the idea, reach out directly. Always happy to connect.
-
-- 📧 &nbsp;[adeelmemon096@yahoo.com](mailto:adeelmemon096@yahoo.com)
-- 💼 &nbsp;[linkedin.com/in/adeeliqbalmemon](https://linkedin.com/in/adeeliqbalmemon)
-
----
 
 ## 📬 Contact
 
